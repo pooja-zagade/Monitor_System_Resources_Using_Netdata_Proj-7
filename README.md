@@ -5,7 +5,7 @@
 - Set up Netdata on an Ubuntu server using Docker to visualize and monitor system and application performance in real-time.
 
 # Tools & Technologies
-- Ubuntu (server/EC2 instance)
+- Ubuntu (server)
 - Docker
 - Netdata (lightweight monitoring tool)
 - stress (to generate system load for testing)
